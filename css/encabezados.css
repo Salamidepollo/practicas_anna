@@ -1,0 +1,20 @@
+/*Documento css */
+
+body { background-color: rgb(191, 167, 213);
+    font-family: "Jacquarda Bastarda 9", serif;
+}
+
+h1, h3 {  color: #221d25;
+            font-size: 2em;
+            text-align: center;
+            font-weight: bold;
+            text-transform: uppercase;
+            text-decoration:line-through
+}
+
+h2, h4 {  color: #6e9971; }
+
+div p small {color: #c48080;
+            background-color: rgb(255, 203, 254);}
+
+div p {line-height: 1.5;}
